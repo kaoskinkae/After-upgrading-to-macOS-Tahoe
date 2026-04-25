@@ -11,14 +11,13 @@ https://github.com/acidanthera/OcBinaryData/tree/master/Drivers
 
 On a Mac, the solution is to enter recovery mode. There are guides on how to do this, but that's not the purpose of this guide.
 
-## Siempre recomiendo en un Hackintosh:
+## I always recommend the following for a Hackintosh:
 
-1.- Tener otros sistema de mac montado en nuestro Hackintosh donde poder acceder a nuestro EFI
+1. Having another Mac operating system installed on your Hackintosh where you can access your EFI.
 
-2.- Poder montar el EFI en Windows o Linux y montar, modificar o añadir elementos en nuestro EFI
+2. Being able to mount the EFI in Windows or Linux and install, modify, or add elements to your EFI.
 
-3.- Tener un virtual en Windows donde poder crear un USB de inicio con nuestros EFI y añadir y modificarlo
-
+3. Having a virtual machine in Windows where you can create a bootable USB drive with your EFI and add to and modify it.
 ## Why does this happen?
 
 The reason is that if we update Tahoe from a previous version and, once Tahoe has started after the update, before shutting down or restarting, we don't disable FileVaut, our system will be encrypted and won't let us enter the user password once it's logged in. The solution on Mac is to log in through recovery mode. That's why I always recommend in our hack to check that recovery mode is working perfectly and allows us to access Terminal.
