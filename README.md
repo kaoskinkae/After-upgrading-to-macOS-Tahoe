@@ -13,6 +13,9 @@ https://github.com/acidanthera/OcBinaryData/tree/master/Drivers
 
 On a Mac, the solution is to enter recovery mode. There are guides on how to do this, but that's not the purpose of this guide.
 
+<img width="300" height="302" alt="mac-os-x-10-7-lion-features-the-all-new-filevault-2-removebg-preview" src="https://github.com/user-attachments/assets/0e3d27d7-6384-48f2-98bb-2c969b5657b1" />
+
+
 ## I always recommend the following for a Hackintosh:
 
 1. Having another Mac operating system installed on your Hackintosh where you can access your EFI.
