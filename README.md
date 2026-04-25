@@ -5,7 +5,9 @@ Use **apfs_aligned.efi** from ocbinarydata in uefi->drivers and disable **Enable
 
 <img width="1486" height="743" alt="Captura de pantalla 2026-04-25 a las 11 50 43" src="https://github.com/user-attachments/assets/b6a36293-83ef-4112-81b7-b93387295bb3" />
 
+
 https://github.com/acidanthera/OcBinaryData/tree/master/Drivers
+
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-04-25 a las 11 50 04" src="https://github.com/user-attachments/assets/dbfac8e6-80ce-4bd9-b1c4-834b41fdafd5" />
 
