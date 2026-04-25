@@ -17,6 +17,7 @@ On a Mac, the solution is to enter recovery mode. There are guides on how to do 
 
 
 ## I always recommend the following for a Hackintosh:
+**USB EFI OpenCore and Clover** 
 
 1. Having another Mac operating system installed on your Hackintosh where you can access your EFI.
 
