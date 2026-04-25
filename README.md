@@ -20,3 +20,7 @@ On a Mac, the solution is to enter recovery mode. There are guides on how to do 
 3.- Tener un virtual en Windows donde poder crear un USB de inicio con nuestros EFI y añadir y modificarlo
 
 ## Why does this happen?
+
+The reason is that if we update Tahoe from a previous version and, once Tahoe has started after the update, before shutting down or restarting, we don't disable FileVaut, our system will be encrypted and won't let us enter the user password once it's logged in. The solution on Mac is to log in through recovery mode. That's why I always recommend in our hack to check that recovery mode is working perfectly and allows us to access Terminal.
+
+In Hackintosh the solution is simple: we need to add .efi to the driver and in OpenCore, uncheck EnableJumpstart in the UEFI section
